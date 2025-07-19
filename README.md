@@ -196,6 +196,10 @@ resources/
 
 Ce projet est uniquement à des fins éducatives pour comprendre les patterns de conception. Il ne doit pas être utilisé pour des attaques réelles. L'utilisation malveillante de ces techniques peut être illégale.
 
+## 📽️Test
+
+[![Vidéo de présentation du Password Cracker Factory](https://img.shields.io/badge/Vidéo-Présentation-red?style=for-the-badge&logo=youtube)](https://youtu.be/LKE8KgiFQSc)
+
 ## 📝 Licence
 
 Projet éducatif - Utilisation libre pour l'apprentissage.
